@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-05T12:58:45 IST" name="Default suite" finished-at="2020-05-05T12:58:50 IST" duration-ms="5242">
+    <groups>
+    </groups>
+    <test started-at="2020-05-05T12:58:45 IST" name="Default test" finished-at="2020-05-05T12:58:50 IST" duration-ms="5242">
+      <class name="studentApiTest.GetEmployees">
+        <test-method is-config="true" signature="utilsTest()[pri:0, instance:studentApiTest.GetEmployees@1d8bd0de]" started-at="2020-05-05T12:58:45 IST" name="utilsTest" finished-at="2020-05-05T12:58:47 IST" duration-ms="1492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- utilsTest -->
+        <test-method signature="GetEmployeesTest()[pri:0, instance:studentApiTest.GetEmployees@1d8bd0de]" started-at="2020-05-05T12:58:47 IST" name="GetEmployeesTest" finished-at="2020-05-05T12:58:50 IST" duration-ms="3688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetEmployeesTest -->
+      </class> <!-- studentApiTest.GetEmployees -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
